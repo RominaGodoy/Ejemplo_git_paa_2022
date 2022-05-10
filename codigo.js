@@ -1,3 +1,3 @@
-export default const test =
+export default const test = () =>
         Console.log("TEST")
 {
